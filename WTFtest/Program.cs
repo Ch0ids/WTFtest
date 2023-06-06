@@ -1,9 +1,9 @@
-﻿using WTFtest;
+﻿//using WTFtest;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        EqualMethodReferences.EqualVs();
-    }
-}
+//class Program
+//{
+//    static void Main(string[] args)
+//    {
+//        EqualMethodReferences.EqualVs();
+//    }
+//}
